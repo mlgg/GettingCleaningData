@@ -1,6 +1,7 @@
 The following variables are present in the run_analysis.R script:
 
-Section 1 -- Raw Data:*
+Section 1 -- Raw Data:
+
 *each of these also have an associated _date variable which is only a date stamp for the file import
 subject_train = table of subject IDs from the training set
 subject_test = table of subject IDs data from test set
@@ -12,6 +13,7 @@ activity_labels = a table matching actity IDs with the descriptive activity name
 features = a table of the different features that were measured
 
 Section 2 -- Data Cleaning:
+
 all_subjects = a table combining Subject IDs from the training and test sets
 monitor_data = a table combining the numeric test results from the training and test sets
 labels = a table combining the Activity IDs from the training and test sets
