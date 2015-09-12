@@ -5,4 +5,5 @@ This repository contains the following material:
 --reads related data from a study related to Samsung mobile phones.
 --combines the data and provides labels for unclear elements
 --organizes the data as a "tidy data" set and writes this set to file as tidydata.txt
-*the code book describing variables for the run_analysis.R script
+
+*the code book describing variables for the run_analysis.R script can also be found in this repository as CodeBook.
